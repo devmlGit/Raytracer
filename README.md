@@ -1,6 +1,6 @@
 # Raytracer
 
-Raytracer built upon [this course (number II)](https://perso.liris.cnrs.fr/nicolas.bonneel/ENS.html).
+Raytracer based on [this course (number II)](https://perso.liris.cnrs.fr/nicolas.bonneel/ENS.html).
 
 <img src="BallAnimation.gif" width="300">
 
